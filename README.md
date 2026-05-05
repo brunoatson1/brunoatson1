@@ -11,9 +11,10 @@ Utilizo IA como parte da minha stack de desenvolvimento para apoiar implementaca
 ## Foco Atual
 
 - Inteligencia Artificial aplicada a operacoes e negocios reais
-- Engenharia de Machine Learning com foco em implementacao
-- Integracao de IA em sistemas, fluxos e automacoes
-- Validacao tecnica, confiabilidade e uso pratico
+- Engenharia de Machine Learning com foco em implementacao, adaptacao e eficiencia
+- Integracao de IA em sistemas, fluxos operacionais e assistentes corporativos
+- Solucoes customizadas com foco em reducao de dependencia de APIs terceiras
+- Validacao tecnica, confiabilidade, manutencao e uso pratico em ambiente real
 - Desenvolvimento limpo, modular e orientado a manutencao
 
 ## Base Profissional

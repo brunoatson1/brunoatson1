@@ -6,7 +6,7 @@ Estou em fase de formação em Analise e Desenvolvimento de Sistemas e Graduando
 
 Com 7 anos na area de Tecnologia da Informacao e Suporte tecnico a computadores e sistemas OS, com atuacao em implementacao, organizacao de ambientes, suporte tecnico e automacao aplicada. Tambem trago experiencia solida em infraestrutura de energia eletrica comercial e predial, com foco em automacao inteligente leve, sensores, integracoes e solucoes praticas para campo e operacao.
 
-Utilizo IA como ferramenta de engenharia no dia a dia, especialmente via CLI e IDE, para acelerar desenvolvimento, estruturar entregas, apoiar validacao tecnica e aumentar consistencia de implementacao sem abrir mao de criterio tecnico.
+Utilizo IA como parte da minha stack de desenvolvimento para apoiar implementacao, acelerar entregas e estruturar solucoes, sempre com validacao humana, revisao critica e responsabilidade tecnica, usada tambem de forma inteligente para acelerar codigo, apoiar validacao tecnica e aumentar consistencia de implementacao.
 
 ## Foco Atual
 

@@ -48,5 +48,8 @@ Meu foco esta em engenharia aplicada, utilizando IA, Machine Learning e Deep Lea
 ## Contato
 
 - GitHub: [github.com/brunoatson1](https://github.com/brunoatson1)
+- LinkedIn: [linkedin.com/in/bruno-silva-626883368](https://www.linkedin.com/in/bruno-silva-626883368/)
+- Site: [brunoats.com.br](https://brunoats.com.br)
+- E-mail: brunoatson@gmail.com
 
 Applied AI, ML engineering, and real-world intelligent systems.

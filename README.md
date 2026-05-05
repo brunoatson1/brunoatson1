@@ -4,7 +4,7 @@ Analista de Sistemas, com foco em soluções com Inteligencia Artificial aplicad
 
 Estou em fase de formação em Analise e Desenvolvimento de Sistemas e Graduando em Engenharia de Inteligencia Artificial e Machine Learning. Meu objetivo profissional e atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao e resultado real.
 
-Tenho 7 anos de experiencia na area de Tecnologia da Informacao, com atuacao em implementacao, organizacao de ambientes, suporte tecnico e automacao aplicada. Tambem trago experiencia solida em infraestrutura de energia eletrica comercial e predial, com foco em automacao inteligente leve, sensores, integracoes e solucoes praticas para campo e operacao.
+Com 7 anos na area de Tecnologia da Informacao e Suporte tecnico a computadores e sistemas OS, com atuacao em implementacao, organizacao de ambientes, suporte tecnico e automacao aplicada. Tambem trago experiencia solida em infraestrutura de energia eletrica comercial e predial, com foco em automacao inteligente leve, sensores, integracoes e solucoes praticas para campo e operacao.
 
 Utilizo IA como ferramenta de engenharia no dia a dia, especialmente via CLI e IDE, para acelerar desenvolvimento, estruturar entregas, apoiar validacao tecnica e aumentar consistencia de implementacao sem abrir mao de criterio tecnico.
 

@@ -1,12 +1,12 @@
 # Bruno Atson
 
-Analista de Sistemas, com foco em soluções com Inteligencia Artificial aplicada, Machine Learning e construcao de sistemas para operacoes e negocios reais.
+Analista de Sistemas, com foco em solucoes com Inteligencia Artificial aplicada, Machine Learning e construcao de sistemas para operacoes e negocios reais.
 
-Estou em fase de formação em Analise e Desenvolvimento de Sistemas e Graduando em Engenharia de Inteligencia Artificial e Machine Learning. Meu objetivo profissional e atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao e resultado real.
+Estou em fase de formacao em Analise e Desenvolvimento de Sistemas e graduando em Engenharia de Inteligencia Artificial e Machine Learning. Meu objetivo profissional e atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao e resultado real.
 
 Com 7 anos na area de Tecnologia da Informacao e Suporte tecnico a computadores e sistemas OS, com atuacao em implementacao, organizacao de ambientes, suporte tecnico e automacao aplicada. Tambem trago experiencia solida em infraestrutura de energia eletrica comercial e predial, com foco em automacao inteligente leve, sensores, integracoes e solucoes praticas para campo e operacao.
 
-Utilizo IA como parte da minha stack de desenvolvimento para apoiar implementacao, acelerar entregas e estruturar solucoes, sempre com validacao humana, revisao critica e responsabilidade tecnica, usada tambem de forma inteligente para acelerar codigo, apoiar validacao tecnica e aumentar consistencia de implementacao.
+Utilizo IA como parte da minha stack de desenvolvimento para apoiar implementacao, acelerar entregas e estruturar solucoes, sempre com validacao humana, revisao critica e responsabilidade tecnica.
 
 ## Foco Atual
 

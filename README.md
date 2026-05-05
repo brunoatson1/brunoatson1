@@ -29,6 +29,10 @@ Utilizo IA como parte da minha stack de desenvolvimento para apoiar implementaca
 
 Este GitHub sera usado como portfolio profissional, com projetos, estudos aplicados e experimentos tecnicos organizados de forma objetiva. A proposta aqui e demonstrar capacidade de implementacao, integracao entre software e IA, organizacao tecnica e construcao de solucoes uteis para contextos reais de negocio.
 
+## Repositorios Publicos
+
+Os projetos publicos deste perfil estao sendo organizados como portfolio tecnico em desenvolvimento. Nem todo repositorio exposto representa uma versao final liberada para uso, distribuicao ou demonstracao aberta.
+
 ## Tecnologias e Ferramentas
 
 - Python

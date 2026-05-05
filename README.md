@@ -43,7 +43,7 @@ Este GitHub sera usado como portfolio profissional, com projetos, estudos aplica
 
 ## Posicionamento
 
-Meu foco nao esta em treinamento de modelos fundacionais do zero. Meu interesse esta em engenharia aplicada: usar IA e Machine Learning com criterio tecnico para construir sistemas, automacoes, assistentes, integracoes e fluxos que funcionem bem em ambientes reais, com clareza de arquitetura, manutencao e validacao.
+Meu foco esta em engenharia aplicada, utilizando IA, Machine Learning e Deep Learning para construir sistemas, automacoes, assistentes e integracoes voltados a contextos reais de negocio, com atencao a arquitetura, validacao, manutencao, confiabilidade e eficiencia operacional.
 
 ## Contato
 

@@ -9,6 +9,12 @@ Analista de Sistemas em formacao, com foco em solucoes com Inteligencia Artifici
 
 Atualmente curso Analise e Desenvolvimento de Sistemas e tambem iniciei a graduacao em Engenharia de Inteligencia Artificial e Machine Learning. Meu objetivo profissional e atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao e resultado real.
 
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,postgres,redis,tailwind,git,github,vscode" />
+</p>
+
 ## Sobre Mim
 
 Tenho interesse em construir software com base tecnica solida, visao de contexto e responsabilidade na implementacao.
@@ -25,7 +31,7 @@ Tambem trago experiencia anterior em suporte tecnico, organizacao de ambientes, 
 
 ## Direcao Profissional
 
-Meu direcionamento esta em engenharia aplicada, utilizando IA, Machine Learning e automacao para construir sistemas, assistentes, integrações e soluções voltadas a contextos reais de negocio.
+Meu direcionamento esta em engenharia aplicada, utilizando IA, Machine Learning e automacao para construir sistemas, assistentes, integracoes e solucoes voltadas a contextos reais de negocio.
 
 Nao tenho foco em projetos apenas demonstrativos. Meu interesse esta em solucoes uteis, com arquitetura coerente, validacao, manutencao e eficiencia operacional.
 
@@ -59,18 +65,6 @@ Principais frentes do projeto:
 Repositorio:
 
 - [Inclus-AI](https://github.com/brunoatson1/IncluJus-AI)
-
-## Tecnologias e Ferramentas
-
-- Python
-- FastAPI
-- TypeScript
-- Next.js
-- PostgreSQL
-- Redis
-- Tailwind CSS
-- Git e GitHub
-- IA assistida por CLI e IDE
 
 ## Este Perfil
 

@@ -26,12 +26,12 @@ Atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,postgres,redis,tailwind,git,github,vscode" />
 </p>
 
-## Estatisticas
+## Indicadores do Perfil
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoatson1&show_icons=true&theme=chartreuse-dark&hide_border=false&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatson1&layout=compact&theme=chartreuse-dark&hide_border=false" />
-</p>
+![Seguidores](https://img.shields.io/github/followers/brunoatson1?style=for-the-badge&logo=github&label=Seguidores)
+![Stars](https://img.shields.io/github/stars/brunoatson1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars)
+![Ultimo update Inclus-AI](https://img.shields.io/github/last-commit/brunoatson1/IncluJus-AI?style=for-the-badge&label=Ultimo%20update%20Inclus-AI)
+![Licenca Inclus-AI](https://img.shields.io/github/license/brunoatson1/IncluJus-AI?style=for-the-badge&label=Licenca%20Inclus-AI)
 
 ## Sobre Mim
 

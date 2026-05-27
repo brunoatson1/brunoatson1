@@ -7,12 +7,30 @@
 
 Analista de Sistemas em formacao, com foco em solucoes com Inteligencia Artificial aplicada, Machine Learning e construcao de sistemas para operacoes e negocios reais.
 
-Atualmente curso Analise e Desenvolvimento de Sistemas e tambem iniciei a graduacao em Engenharia de Inteligencia Artificial e Machine Learning. Meu objetivo profissional e atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao e resultado real.
+Atualmente curso Analise e Desenvolvimento de Sistemas e tambem iniciei a graduacao em Engenharia de Inteligencia Artificial e Machine Learning.
 
-## Tecnologias
+## Objetivo
+
+Atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao tecnica e resultado real.
+
+## Contato
+
+- GitHub: [github.com/brunoatson1](https://github.com/brunoatson1)
+- LinkedIn: [linkedin.com/in/bruno-silva-626883368](https://www.linkedin.com/in/bruno-silva-626883368/)
+- Site: [brunoats.com.br](https://brunoats.com.br)
+- E-mail: brunoatson@gmail.com
+
+## Linguagens e Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,postgres,redis,tailwind,git,github,vscode" />
+</p>
+
+## Estatisticas
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoatson1&show_icons=true&theme=chartreuse-dark&hide_border=false&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatson1&layout=compact&theme=chartreuse-dark&hide_border=false" />
 </p>
 
 ## Sobre Mim
@@ -29,30 +47,11 @@ Meu foco esta em:
 
 Tambem trago experiencia anterior em suporte tecnico, organizacao de ambientes, automacao aplicada e infraestrutura tecnica, o que reforca minha visao de operacao, manutencao e solucao pratica.
 
-## Direcao Profissional
-
-Meu direcionamento esta em engenharia aplicada, utilizando IA, Machine Learning e automacao para construir sistemas, assistentes, integracoes e solucoes voltadas a contextos reais de negocio.
-
-Nao tenho foco em projetos apenas demonstrativos. Meu interesse esta em solucoes uteis, com arquitetura coerente, validacao, manutencao e eficiencia operacional.
-
-## Foco Atual
-
-- IA aplicada a operacoes e negocios reais
-- Engenharia de Machine Learning com foco em implementacao
-- Integracao de IA em sistemas e fluxos operacionais
-- Automacao inteligente com criterio tecnico
-- Desenvolvimento modular e orientado a manutencao
-- Solucoes com responsabilidade tecnica e validacao humana
-
 ## Projeto em Destaque
 
 ### Inclus-AI
 
 Projeto academico e tecnico voltado a acessibilidade da comunicacao judicial e institucional com apoio de inteligencia artificial e revisao humana.
-
-Objetivo central:
-
-adaptar documentos e comunicacoes para diferentes perfis de acessibilidade, preservando clareza, rastreabilidade e validacao humana.
 
 Principais frentes do projeto:
 
@@ -66,21 +65,8 @@ Repositorio:
 
 - [Inclus-AI](https://github.com/brunoatson1/IncluJus-AI)
 
-## Este Perfil
+## Direcao Profissional
 
-Este GitHub e usado como portfolio tecnico em construcao, com projetos, estudos aplicados e repositorios organizados de forma objetiva.
+Meu direcionamento esta em engenharia aplicada, utilizando IA, Machine Learning e automacao para construir sistemas, assistentes, integracoes e solucoes voltadas a contextos reais de negocio.
 
-A proposta aqui e demonstrar:
-
-- capacidade de implementacao real;
-- integracao entre software e IA;
-- organizacao tecnica;
-- maturidade de arquitetura;
-- construcao de solucoes uteis para contextos reais.
-
-## Contato
-
-- GitHub: [github.com/brunoatson1](https://github.com/brunoatson1)
-- LinkedIn: [linkedin.com/in/bruno-silva-626883368](https://www.linkedin.com/in/bruno-silva-626883368/)
-- Site: [brunoats.com.br](https://brunoats.com.br)
-- E-mail: brunoatson@gmail.com
+Nao tenho foco em projetos apenas demonstrativos. Meu interesse esta em solucoes uteis, com arquitetura coerente, validacao, manutencao e eficiencia operacional.

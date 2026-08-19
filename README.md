@@ -5,68 +5,62 @@
 ![stack](https://img.shields.io/badge/stack-Python%20%7C%20FastAPI%20%7C%20Next.js-f39c12)
 ![perfil](https://img.shields.io/badge/perfil-engenharia_e_implementacao-1b8a5a)
 
-Analista de Sistemas em formacao, com foco em solucoes com Inteligencia Artificial aplicada, Machine Learning e construcao de sistemas para operacoes e negocios reais.
+Analista de Sistemas em formação, com foco em Inteligência Artificial aplicada, automação e construção de sistemas para operações e negócios reais.
 
-Atualmente curso Analise e Desenvolvimento de Sistemas e tambem iniciei a graduacao em Engenharia de Inteligencia Artificial e Machine Learning.
+Atualmente curso Análise e Desenvolvimento de Sistemas e Engenharia de Inteligência Artificial e Machine Learning.
 
-## Objetivo
+## Áreas de atuação
 
-Atuar na construcao de solucoes baseadas em IA para produtos, processos e fluxos operacionais, com foco em implementacao pratica, integracao entre sistemas, validacao tecnica e resultado real.
+- Inteligência Artificial aplicada a problemas reais;
+- arquitetura e backend para sistemas escaláveis e manuteníveis;
+- integração entre software, automação e fluxos operacionais;
+- validação técnica, confiabilidade e uso prático;
+- processamento e automação documental.
 
-## Contato
-
-- GitHub: [github.com/brunoatson1](https://github.com/brunoatson1)
-- LinkedIn: [linkedin.com/in/bruno-silva-626883368](https://www.linkedin.com/in/bruno-silva-626883368/)
-- Site: [brunoats.com.br](https://brunoats.com.br)
-- E-mail: brunoatson@gmail.com
-
-## Linguagens e Tecnologias
+## Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,postgres,redis,tailwind,git,github,vscode" />
 </p>
 
-## Indicadores do Perfil
+## Projetos em destaque
 
-![Seguidores](https://img.shields.io/github/followers/brunoatson1?style=for-the-badge&logo=github&label=Seguidores)
-![Stars](https://img.shields.io/github/stars/brunoatson1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars)
-![Ultimo update Inclus-AI](https://img.shields.io/github/last-commit/brunoatson1/IncluJus-AI?style=for-the-badge&label=Ultimo%20update%20Inclus-AI)
-![Licenca Inclus-AI](https://img.shields.io/github/license/brunoatson1/IncluJus-AI?style=for-the-badge&label=Licenca%20Inclus-AI)
+### IncluJus AI
 
-## Sobre Mim
+Projeto acadêmico e técnico voltado à acessibilidade da comunicação judicial e institucional com apoio de Inteligência Artificial e revisão humana.
 
-Tenho interesse em construir software com base tecnica solida, visao de contexto e responsabilidade na implementacao.
-
-Meu foco esta em:
-
-- inteligencia artificial aplicada a problemas reais;
-- arquitetura e backend para sistemas escalaveis e manuteniveis;
-- integracao entre software, automacao e fluxos operacionais;
-- validacao tecnica, confiabilidade e uso pratico;
-- documentacao, organizacao e estrutura de projetos.
-
-Tambem trago experiencia anterior em suporte tecnico, organizacao de ambientes, automacao aplicada e infraestrutura tecnica, o que reforca minha visao de operacao, manutencao e solucao pratica.
-
-## Projeto em Destaque
-
-### Inclus-AI
-
-Projeto academico e tecnico voltado a acessibilidade da comunicacao judicial e institucional com apoio de inteligencia artificial e revisao humana.
-
-Principais frentes do projeto:
+Principais frentes:
 
 - linguagem simples;
 - acessibilidade documental;
-- apoio a compreensao do cidadao;
-- estrutura modular para evolucao futura;
-- arquitetura pensada para backend, revisao e governanca.
+- apoio à compreensão do cidadão;
+- arquitetura modular;
+- revisão humana e governança.
 
-Repositorio:
+[Ver repositório](https://github.com/brunoatson1/IncluJus-AI)
 
-- [Inclus-AI](https://github.com/brunoatson1/IncluJus-AI)
+### Axiel PDF
 
-## Direcao Profissional
+Aplicativo desktop para organização, visualização e união de arquivos PDF, com foco em fluxos documentais reais e evolução para automação documental.
 
-Meu direcionamento esta em engenharia aplicada, utilizando IA, Machine Learning e automacao para construir sistemas, assistentes, integracoes e solucoes voltadas a contextos reais de negocio.
+[Ver repositório](https://github.com/brunoatson1/axiel-pdf)
 
-Nao tenho foco em projetos apenas demonstrativos. Meu interesse esta em solucoes uteis, com arquitetura coerente, validacao, manutencao e eficiencia operacional.
+## Perfil profissional
+
+Meu direcionamento está em engenharia aplicada: construir sistemas, integrações, assistentes e automações com arquitetura coerente, validação técnica, manutenção e eficiência operacional.
+
+Também trago experiência com suporte técnico, organização de ambientes, automação aplicada e infraestrutura, o que amplia minha visão sobre operação e confiabilidade de sistemas.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/bruno-silva-626883368/)
+- [Site](https://brunoats.com.br)
+- E-mail: brunoatson@gmail.com
+- GitHub: [github.com/brunoatson1](https://github.com/brunoatson1)
+
+## Indicadores
+
+![Seguidores](https://img.shields.io/github/followers/brunoatson1?style=for-the-badge&logo=github&label=Seguidores)
+![Stars](https://img.shields.io/github/stars/brunoatson1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars)
+![Último update IncluJus AI](https://img.shields.io/github/last-commit/brunoatson1/IncluJus-AI?style=for-the-badge&label=Último%20update%20IncluJus%20AI)
+![Licença IncluJus AI](https://img.shields.io/github/license/brunoatson1/IncluJus-AI?style=for-the-badge&label=Licença%20IncluJus%20AI)
